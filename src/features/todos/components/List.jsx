@@ -71,7 +71,7 @@ const List = () => {
                     borderColor="red"
                     onClick={() => onDeleteTodo(todo.id)}
                   >
-                    삭제하기.
+                    삭제하기
                   </StButton>
                   <StButton
                     borderColor="green"
